@@ -4,7 +4,7 @@
 
 http://www.microtechnica.tv/support/manual/brm65_man.pdf
 
-Follow the manual and setup the folowing setting.
+Follow the manual and setup the folowing configurations.
 
 1. Command Triggered Mode
 2. USB virtual serial port
